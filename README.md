@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Bri, and I am a culturally confused cheese enthusiast. 
